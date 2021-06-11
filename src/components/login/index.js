@@ -1,3 +1,9 @@
+/*
+ * @Author: jianwen.Wang
+ * @Date: 2020-09-28 14:28:16
+ * @LastEditTime: 2020-12-02 11:25:49
+ * @LastEditors: jiawen.wang
+ */
 import React, { Component } from 'react'
 import { Form, Icon, Input, Button, Card } from 'antd';
 import { login } from '../../api/request'

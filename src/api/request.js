@@ -1,7 +1,7 @@
 /*
  * @Author: jianwen.Wang
  * @Date: 2020-09-28 14:28:16
- * @LastEditTime: 2020-11-28 14:12:10
+ * @LastEditTime: 2020-12-02 11:41:28
  * @LastEditors: jiawen.wang
  */
 import axios from './index';  //进行了二次封装了
